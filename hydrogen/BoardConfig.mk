@@ -50,3 +50,6 @@ VENDOR_SECURITY_PATCH := 2018-07-01
 
 # inherit from the proprietary version
 -include vendor/xiaomi/hydrogen/BoardConfigVendor.mk
+
+# to call local private apps like Gcams and MiuiCamera
+LOCAL_PATH := $(call my-dir)
