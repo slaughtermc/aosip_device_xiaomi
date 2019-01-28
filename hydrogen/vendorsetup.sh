@@ -1,1 +1,1 @@
-add_lunch_combo havoc_hydrogen
+add_lunch_combo aosip_hydrogen
