@@ -40,6 +40,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # Use the latest approved GMS identifiers unless running a signed build
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="hydrogen-user 6.0.1 MMB29M V8.2.3.0.MBCCNDL release-keys"
+    PRIVATE_BUILD_DESC="helium-user 7.0 NRD90M V10.1.1.0.NBDMIFI release-keys"
+BUILD_FINGERPRINT=Xiaomi/helium/helium:7.0/NRD90M/V10.1.1.0.NBDMIFI:user/release-keys
 
-BUILD_FINGERPRINT := Xiaomi/hydrogen/hydrogen:6.0.1/MMB29M/V8.2.3.0.MBCCNDL:user/release-keys
