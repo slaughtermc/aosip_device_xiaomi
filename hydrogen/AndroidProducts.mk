@@ -16,4 +16,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pixeldust.mk
+    $(LOCAL_DIR)/aosip.mk
