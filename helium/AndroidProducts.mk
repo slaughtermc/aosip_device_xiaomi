@@ -16,4 +16,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cos_helium.mk
+    $(LOCAL_DIR)/cos.mk
