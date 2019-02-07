@@ -38,9 +38,6 @@ TARGET_VENDOR := Xiaomi
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 TARGET_MINIMAL_APPS := true
 
-
-PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
-
 # Use the latest approved GMS identifiers unless running a signed build
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="helium-user 7.0 NRD90M V10.1.1.0.NBDMIFI release-keys"
