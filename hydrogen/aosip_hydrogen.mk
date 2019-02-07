@@ -30,12 +30,11 @@ $(call inherit-product, vendor/aosip/config/common_full_phone.mk)
 # Set those variables here to overwrite the inherited values.
 BOARD_VENDOR := Xiaomi
 PRODUCT_BRAND := Xiaomi
-PRODUCT_DEVICE := helium
+PRODUCT_DEVICE := hydrogen
 PRODUCT_NAME := aosip_hydrogen
 PRODUCT_MANUFACTURER := Xiaomi
-PRODUCT_MODEL := Mi Max Prime
+PRODUCT_MODEL := Mi Max 
 TARGET_VENDOR := Xiaomi
-CUSTOM_BUILD_TYPE := OFFICIAL
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 TARGET_MINIMAL_APPS := true
 TARGET_GAPPS_ARCH := arm64
