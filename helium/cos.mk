@@ -25,7 +25,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/xiaomi/helium/device.mk)
 
 # Inherit some common aosip stuff.
-$(call inherit-product, vendor/cos/config/common_full_phone.mk)
+$(call inherit-product, vendor/cos/common.mk)
 
 # Set those variables here to overwrite the inherited values.
 BOARD_VENDOR := Xiaomi
